@@ -40,3 +40,9 @@ git push
 
 Q: src refspec master does not match any
 A: git push origin master
+
+<h2>Push to git using CLI</h2>:
+:$ git remote add origin <REMOTE_URL>
+:# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
