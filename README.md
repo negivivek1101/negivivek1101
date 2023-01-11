@@ -31,7 +31,7 @@ useStateSnippet: To create useState hook fast.
 rafce: To create new component in new file fast.
 Q. commit in vite A. git init to
 
-Q. add origin in git
+Q. add origin in git 
 Agit remote add origin
 
 create github repositoy of same name 2. rename folder name of current project to same name 3. Add github repo remote by: git remote add origin git@github.com:sahilrajput03/react-tectonic.git
@@ -42,7 +42,10 @@ Q: src refspec master does not match any
 A: git push origin master
 
 <h2>Push to git using CLI</h2>:
-:$ git remote add origin <REMOTE_URL>
-:# Sets the new remote
-$ git remote -v
+$ git remote add origin <REMOTE_URL> 
+# Sets the new remote 
+$ git remote -v 
 # Verifies the new remote URL
+
+$ git push origin main
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
