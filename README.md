@@ -48,4 +48,4 @@ $ git remote -v
 # Verifies the new remote URL
 
 $ git push origin main
-Pushes the changes in your local repository up to the remote repository you specified as the origin
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
